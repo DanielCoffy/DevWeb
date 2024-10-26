@@ -1,5 +1,4 @@
-function calcularMelhorPreco()
-      {
+function calcularMelhorPreco(){
         // validar os campos
 
         let precoAlcool = document.getElementById('alcool').value
