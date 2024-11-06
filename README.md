@@ -17,4 +17,4 @@ ProjetoRelogioDigital;
 ProjetoFrasesMotivacionais;
 ProjetoListaNomes;
 ProjetoGaleriacomLightbox;
-ProjetoBarradeProgreso;
+ProjetoBarradeProgresso;
